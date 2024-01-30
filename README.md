@@ -2,3 +2,5 @@
 githubをSourceTreeで体験するためのリポジトリです。
 
 初めてGitHubとSourceTreeを使います！
+
+赤瀬です。プログラマーの種でスーパープログラマーになりたいです。
